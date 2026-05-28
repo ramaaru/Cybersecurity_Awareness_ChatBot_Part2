@@ -4,7 +4,7 @@ Cybersecurity Awareness Chatbot is designed to educate users about cybersecurity
 
 The chatbot uses keyword recognition, random responses, sentiment detection, and memory features to provide an interactive learning experience.
 
-##Features
+## Features
 GUI Interface using WPF
 Keyword Recognition
 Random Responses
@@ -21,15 +21,15 @@ WPF
 Visual Studio
 ##Project Structure
 Cybersecurity_Awareness_Chatbot/
-│
-├── Program.cs
-├── ChatBot.cs
-├── AudioPlayer.cs
-├── ImageDisplay.cs
-├── MainWindow.xaml
-├── MainWindow.xaml.cs
-└── Resources/
-##How to Run
+
+ Program.cs
+ChatBot.cs
+ AudioPlayer.cs
+ ImageDisplay.cs
+ MainWindow.xaml
+ MainWindow.xaml.cs
+ Resources/
+## How to Run
 Open the project in Visual Studio.
 Build the solution.
 Run the application.
@@ -42,7 +42,7 @@ How do I protect my privacy?
 I am worried about hackers.
 Learning Outcomes
 
-##This project demonstrates:
+## This project demonstrates:
 
 Object-Oriented Programming
 GUI Development
